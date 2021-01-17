@@ -13,3 +13,7 @@
 1. Run ```npm install live-server --save```
 2. Run check ```live-server --version```
 
+### Task: Set up app 'notes-app' - html
+
+1. Run ```live-sever notes-app```
+2. For an HTML ref type MDN html
