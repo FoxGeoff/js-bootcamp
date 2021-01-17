@@ -17,3 +17,6 @@
 
 1. Run ```live-sever notes-app```
 2. For an HTML ref type MDN html
+
+### Task: Set up app 'notes-app' - javascript
+ 
