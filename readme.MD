@@ -7,3 +7,9 @@
 1. run ```node hello-world.js```
 
 ## Kanban Task #7: Javascript-in-the-Browser
+
+### Task: Setting up a Web Server
+
+1. Run ```npm install live-server --save```
+2. Run check ```live-server --version```
+
