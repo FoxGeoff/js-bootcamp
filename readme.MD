@@ -19,3 +19,8 @@
 2. For an HTML ref type MDN html
 
 ### Task: Set up app 'notes-app' - javascript
+
+1. Add ``<script src="app.js"></script>
+2. ```http://127.0.0.1:8080/``` is localhost on port 8080
+
+### Task: DOM Manipulation
